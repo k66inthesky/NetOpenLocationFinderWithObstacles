@@ -3,7 +3,7 @@
 
 + 學生：陳佳琳、劉湘怡
 + 指導教授：鄭維凱
-+ 完整書面報告請見：[pdf](https://github.com/k66inthesky/NetOpenLocationFinderWithObstacles/blob/main/NetOpenLocationFinderWithObstacles.pdf)
++ 完整書面報告請見：[pdf](https://github.com/k66inthesky/NetOpenLocationFinderWithObstacles/blob/main/書面報告.pdf)
 
 ### 題目：
 > 起源： 
@@ -26,7 +26,7 @@
 ![介紹-不合法的](https://github.com/k66inthesky/NetOpenLocationFinderWithObstacles/assets/45890492/fdc796d0-9e8f-4c3f-ab33-5021d3bb0bb5)
 
 
-我們針對此題目提出一些原創方法，詳見：[pdf](https://github.com/k66inthesky/NetOpenLocationFinderWithObstacles/blob/main/NetOpenLocationFinderWithObstacles.pdf)
+我們針對此題目提出一些原創方法，詳見：[pdf](https://github.com/k66inthesky/NetOpenLocationFinderWithObstacles/blob/main/書面報告.pdf)
 
 ### 實驗結果：
 |版本|層數|合法矩形個數|非法矩形個數|總Path|共使用Via數|總ViaCost|總Cost|總執行時間| 

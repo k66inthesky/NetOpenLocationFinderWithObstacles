@@ -1,4 +1,4 @@
-# NetOpenLocationFinderWithObstacles
+# Net Open Location Finder With Obstacles
 當時稚嫩的大學專題，來自ICCAD 2017年B題目。
 
 + 學生：陳佳琳、劉湘怡
